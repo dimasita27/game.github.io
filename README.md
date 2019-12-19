@@ -1,2 +1,2 @@
-# game.github.io
-[ Мой первый сайт ](https://dimasita27.github.io/codeGame/main.cpp)
+Мини игра, охотники и зверь.
+Цель игры загнать зверя в ловушку.
